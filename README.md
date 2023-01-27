@@ -1,4 +1,4 @@
-![Meryem Nur Kutlu Banner]([https://ezberbozanmedya.com/wp-content/uploads/2021/09/1-4/.jpg](https://yunti.files.wordpress.com/2016/09/manzara_20_tam35-blogspot-com.jpg))
+![Meryem Nur Kutlu Banner](https://yunti.files.wordpress.com/2016/09/manzara_20_tam35-blogspot-com.jpg))
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Meryem</h2>
 
