@@ -1,5 +1,4 @@
-![Meryem Nur Kutlu Banner](https://github.com/meryemkutlu)
-
+Meryem Nur Kutlu
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Meryem</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Meryem -->
