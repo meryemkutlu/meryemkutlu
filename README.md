@@ -1,4 +1,4 @@
-![Meryem Nur Kutlu Banner](https://icdn.tgrthaber.com.tr/images/albumler/2019_10/23013/buyuk/manzara-fotograflari-en-guzel-manzara-resimleri_171572010490.jpg)
+![Busra Elif Kutlu Banner](https://github.com/belifkutlu/belifkutlu/blob/main/1500x500.jpeg?raw=true)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Meryem</h2>
 
